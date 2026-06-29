@@ -34,13 +34,13 @@ $$I = I_{ambient} + I_{diffuse} + I_{specular}$$
 
 ## 渲染演示效果
 <p align="center">
-  <img src="./work4_images/work4_one.gif" width="720" alt="Ka环境光调节演示">
+  <img src="work4_images/work4_one.gif" width="720" alt="Ka环境光调节演示">
   <br><br>
-  <img src="./work4_images/work4_two.gif" width="720" alt="Kd漫反射调节演示">
+  <img src="work4_images/work4_two.gif" width="720" alt="Kd漫反射调节演示">
   <br><br>
-  <img src="./work4_images/work4_three.gif" width="720" alt="Ks高光强度调节演示">
+  <img src="work4_images/work4_three.gif" width="720" alt="Ks高光强度调节演示">
   <br><br>
-  <img src="./work4_images/work4_four.gif" width="720" alt="Shininess高光指数调节演示">
+  <img src="work4_images/work4_four.gif" width="720" alt="Shininess高光指数调节演示">
 </p>
 
 安装命令：
