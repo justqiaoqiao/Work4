@@ -16,8 +16,8 @@ $$I = I_{ambient} + I_{diffuse} + I_{specular}$$
 
 ## 场景配置
 - 物体：左侧红色球体、右侧紫色圆锥（隐式几何求交）
-- 相机位置：$(0, 0, 5)$
-- 白光点光源：$(2, 3, 4)$
+- 相机位置：(0, 0, 5)
+- 白光点光源：(2, 3, 4)
 - 深度测试：实现 Z-Buffer，取最近交点完成遮挡着色
 
 ## 可调交互参数
@@ -32,6 +32,11 @@ $$I = I_{ambient} + I_{diffuse} + I_{specular}$$
 - Python 3.8+
 - taichi >= 1.4.0
 
+## 渲染演示效果
+![Phong光照交互演示](./assets/render_demo.gif)
+
 安装命令：
 ```bash
 pip install taichi
+
+
