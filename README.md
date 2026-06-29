@@ -33,7 +33,10 @@ $$I = I_{ambient} + I_{diffuse} + I_{specular}$$
 - taichi >= 1.4.0
 
 ## 渲染演示效果
-![Phong光照交互演示](./assets/render_demo.gif)
+![演示动图一](./work4_images/work4_one.gif)
+![演示动图二](./work4_images/work4_two.gif)
+![演示动图一](./work4_images/work4_three.gif)
+![演示动图二](./work4_images/work4_four.gif)
 
 安装命令：
 ```bash
